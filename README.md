@@ -1,7 +1,6 @@
 ANOTAR
 
-Libreta Digital
-Link Deployado:
+Deployado:
 https://63bb174b594968456af52c99--gilded-lamington-b63e76.netlify.app/
 
 
