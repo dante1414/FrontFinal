@@ -10,5 +10,5 @@ Tipos de Tecnologías :
 FrontEnd: ReactJS,jsx,Tailwind.-
 BackEnd: Javascript, Node.js, Express.js, Mongoose.-
 
-Creador: Dante Ezequiel S.
+Creador: Dante Ezequiel Solis.
 
